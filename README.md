@@ -1,2 +1,4 @@
 # xiao_booky
-forked, and modified slightly to suit the needs
+forked, forked, https://github.com/xiaolaba/booky
+and modified slightly to suit the needs
+
